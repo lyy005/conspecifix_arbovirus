@@ -11,3 +11,7 @@ This document is a walkthrough of the data and analytical pipeline used to delin
 ## 3 - ConSpeciFix analysis
 
 ## 4 - Simulation
+
+## 5 - Citation
+
+Li Y, O’Donnell A, Ochman H. 2020. Discriminating Arboviral Species
