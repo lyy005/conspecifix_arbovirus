@@ -4,6 +4,8 @@ This document is a walkthrough of the data and analytical pipeline used to delin
 
 ## 1 - Arboviral genomes and reference protein sequences
 
+    wget
+
 ## 2 - Arboviral genome annotation
 
 ## 3 - ConSpeciFix analysis
