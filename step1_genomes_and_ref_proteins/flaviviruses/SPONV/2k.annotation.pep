@@ -1,0 +1,2 @@
+>YP_009227193.1 protein 2K [Spondweni virus]
+SPQDNQLALIILIATGLITLIAA

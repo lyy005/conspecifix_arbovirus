@@ -1,0 +1,2 @@
+>NP_739593.2 2K peptide [Dengue virus 2]
+TPQDNQLTYVVIAILTVVAATMA
