@@ -4,6 +4,8 @@ This document is a walkthrough of the data and analytical pipeline used to delin
 
 ## Programs used in the analysis
 
+ConSpeciFix (https://github.com/Bobay-Ochman/ConSpeciFix)
+
 Exonerate (https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate)
 
 BIONJ_linux (http://www.atgc-montpellier.fr/bionj/download.php)
@@ -63,4 +65,5 @@ To access whether the observed recombination is due to convergent mutations, we 
 ## Citation
 
 Li Y, O’Donnell A, Ochman H. 2020. Discriminating Arboviral Species
+
 Bobay L, Ellis BS, Ochman H. 2018. ConSpeciFix: classifying prokaryotic species based on gene flow. Bioinformatics 34.21: 3738-3740.
