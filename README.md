@@ -39,7 +39,7 @@ Concatenate all the genes together, in the same order as the genes in the viral 
 
 ## 3 - ConSpeciFix analysis
 
-### 3a - pick 100 representative genomes using ConSpeciFix
+### 3a - Subsample 100 representative genomes using ConSpeciFix
 
 Considering the computational efficiency, only 100 representative genomes are analyzed if there are more than 100 viral genomes.
 
