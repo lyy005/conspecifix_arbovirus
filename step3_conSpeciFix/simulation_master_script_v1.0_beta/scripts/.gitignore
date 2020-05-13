@@ -1,0 +1,17 @@
+*/*.pyc
+*/*/*.pyc
+*/test.py
+database/todo/*
+databaseQuery/todo/*
+revisionSpecifics/todo/*
+*/nohup.out
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

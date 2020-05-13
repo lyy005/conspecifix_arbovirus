@@ -1,0 +1,103 @@
+IMPORTANT WARNING: Alignment column 4750 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 4751 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 4752 contains only undetermined values which will be treated as missing data
+
+
+IMPORTANT WARNING: Sequences YFV-MH666058_Brazil_NA_UnknownSapajussp_12192016.fa and YFV-MH666056_Brazil_NA_BlackHowlerAlouattasp_11162016.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-CS805341_NA_WestAfricaGenotypeII_UnknownNA_NA.fa and YFV-NC_002031.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-CS805341_NA_WestAfricaGenotypeII_UnknownNA_NA.fa and YFV-X03700_NA_WestAfricaGenotypeII_UnknownNA_NA.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-JX898881_Senegal_WestAfricaGenotypeII_MosquitoAedesluteocephalus_2005.fa and YFV-JX898879_Senegal_WestAfricaGenotypeII_MosquitoAedestaylori_2005.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-JX898881_Senegal_WestAfricaGenotypeII_MosquitoAedesluteocephalus_2005.fa and YFV-JX898878_Senegal_WestAfricaGenotypeII_MosquitoAedesfurcifer_2005.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-JN628281_NA_WestAfricaGenotypeII_UnknownNA_NA.fa and YFV-JN628280_NA_WestAfricaGenotypeII_UnknownNA_NA.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-JN628281_NA_WestAfricaGenotypeII_UnknownNA_NA.fa and YFV-JN628279_NA_WestAfricaGenotypeII_UnknownNA_NA.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-JN628281_NA_WestAfricaGenotypeII_UnknownNA_NA.fa and YFV-JN811140_NA_WestAfricaGenotypeII_UnknownNA_NA.fa are exactly identical
+
+
+IMPORTANT WARNING: Sequences YFV-KY885001_Brazil_NA_MonkeyAlouattaclamitans_02222017.fa and YFV-KY885000_Brazil_NA_MonkeyAlouattaclamitans_02202017.fa are exactly identical
+
+IMPORTANT WARNING
+Found 9 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+
+IMPORTANT WARNING
+Found 3 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates and undetermined columns removed is printed to file concat85.fa.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+Alignment has 3 completely undetermined sites that will be automatically removed from the input data
+
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 3584 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 5.47%
+
+RAxML Computation of pairwise distances
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 3584
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/usr/bin/raxmlHPC-PTHREADS -f x -T 73 -p 12345 -s concat85.fa -m GTRGAMMA -n dist 
+
+
+
+Log Likelihood Score after parameter optimization: -71216.222624
+
+
+Computing pairwise ML-distances ...
+
+Time for pair-wise ML distance computation of 11781 distances: 2728.217648 seconds
+
+Distances written to file: /stor/work/Ochman/yli19/projects/conSpeciFix/step3_Flaviviruses/runs/run8b_YFV_1000and0.05_beta_modified_genomes_removed/_conspecifix/database/User_spec/RAxML_distances.dist

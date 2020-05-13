@@ -1,0 +1,43 @@
+Conspecifix Results:
+
+	Completed on: 2019-11-01 14:26:55
+	Species: User_spec
+
+	For more information about our process, visit our website
+	https://www.conspecifix.com
+	or take a look at our github
+	https://github.com/Bobay-Ochman
+
+	Exclusion criterion based off a modified
+	version of that found in Bobay & Ochman, GBE 2017
+	
+
+The following strains are members of the species:
+YFV-MF170968_Brazil_NA_HumanHomosapiens_04132017.fa
+YFV-JX898869_CotedIvoire_WestAfricaGenotypeI_MosquitoAedesafricanus_1973.fa
+YFV-MH633686_China_AngolaGenotype_HumanHomosapiens_2016.fa
+YFV-AF052439_NA_WestAfricaGenotypeII_UnknownNA_NA.fa
+YFV-AY968065_Uganda_EastAfricaGenotype_HumanHomosapiens_NA.fa
+YFV-JX898878_Senegal_WestAfricaGenotypeII_MosquitoAedesfurcifer_2005.fa
+YFV-KF907504_Bolivia_NA_HumanHomosapiens_NA.fa
+YFV-AF094612_NA_WestAfricaGenotypeII_UnknownNA_NA.fa
+YFV-KM388816_Venezuela_NA_MonkeyAlouattaseniculus_2010.fa
+YFV-JF912183_Brazil_NA_HumanHomosapiens_1984.fa
+YFV-MF370545_Brazil_NA_MonkeyAotusozzaraeinfulatus_04052017.fa
+YFV-KU978763_Nigeria_WestAfricaGenotypeI_HumanHomosapiens_1946.fa
+YFV-MF004383_Sudan_EastCentralAfricanGenotype_HumanHomosapiens_NA.fa
+YFV-JF912189_Brazil_NA_MosquitoHaemagogusleucocelaenus_2001.fa
+YFV-MF370542_Brazil_NA_HowlerMonkeyAlouattaguariba_03142017.fa
+YFV-JX898873_Senegal_WestAfricaGenotypeII_MosquitoAedesfurcifer_2000.fa
+YFV-KU978765_GuineaBissau_WestAfricaGenotypeII_HumanHomosapiens_08231965.fa
+YFV-JX898868_Senegal_WestAfricaGenotypeII_HumanHomosapiens_1995.fa
+YFV-JF912185_Brazil_NA_MosquitoSabethessp_1992.fa
+YFV-JF912180_Brazil_NA_HumanHomosapiens_1981.fa
+YFV-HM582851_TrinidadandTobago_NA_MonkeyAlouattaseniculus_2009.fa
+YFV-JF912181_Brazil_NA_HumanHomosapiens_1983.fa
+YFV-U54798_NA_WestAfricaGenotypeI_UnknownNA_NA.fa
+YFV-JN620362_Uganda_EastCentralAfricanGenotype_HumanHomosapiens_102010.fa
+YFV-DQ235229_Ethiopia_EastCentralAfricanGenotype_UnknownNA_NA.fa
+
+The following strains were determined to NOT be a member of the species:
+
