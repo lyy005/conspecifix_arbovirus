@@ -63,3 +63,4 @@ To access whether the observed recombination is due to convergent mutations, we 
 ## Citation
 
 Li Y, O’Donnell A, Ochman H. 2020. Discriminating Arboviral Species
+Bobay L, Ellis BS, Ochman H. 2018. ConSpeciFix: classifying prokaryotic species based on gene flow. Bioinformatics 34.21: 3738-3740.
