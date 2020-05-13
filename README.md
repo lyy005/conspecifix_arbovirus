@@ -16,8 +16,8 @@ SeqGen version 1.3.4 (http://tree.bio.ed.ac.uk/software/seqgen/)
 
 Genome sequences downloaded from https://www.viprbrc.org/ can be found under: 
 
-    ./conspecifix_arbovirus/step1_genomes_and_ref_proteins/alphaviruses/
-    ./conspecifix_arbovirus/step1_genomes_and_ref_proteins/flaviviruses/
+    ./step1_genomes_and_ref_proteins/alphaviruses/
+    ./step1_genomes_and_ref_proteins/flaviviruses/
 
 Each folder also includeds protein sequences (\*.pep) of each gene for annotaiton. 
 
@@ -25,15 +25,15 @@ Each folder also includeds protein sequences (\*.pep) of each gene for annotaito
 
 Annotate all the genes:  
 
-    sh run1_batch_annotation.sh
+    sh ./step2_annotation/run1_batch_annotation.sh
 
 Perform codon-based alignment for each gene
 
-    sh run2_batch_aln.sh
+    sh ./step2_annotation/run2_batch_aln.sh
     
 Concatenate all the genes together, in the same order as the genes in the viral genomes. After running this script, all the genes are concatenated and saved to file "concate.list.fasta". 
     
-    sh run3_concatenate_genes.sh
+    sh ./step2_annotation/run3_concatenate_genes.sh
 
 ## 3 - ConSpeciFix analysis
 
@@ -47,18 +47,18 @@ Considering the computational efficiency, only 100 representative genomes are an
 ### 3b - Run ConSpeciFix analysis between lineages within the same ICTV-designated species.
 
     
-    sh step3_conSpeciFix/run2_conSpeciFix_within_spp/cmd.sh
+    sh ./step3_conSpeciFix/run2_conSpeciFix_within_spp/cmd.sh
 
 ### 3c - Run ConSpeciFix between lineages of different ICTV-designated species.
 
 
-    sh step3_conSpeciFix/run3_conSpeciFix_between_spp/cmd.sh
+    sh ./step3_conSpeciFix/run3_conSpeciFix_between_spp/cmd.sh
 
 ## 4 - Simulation
 
 To access whether the observed recombination is due to convergent mutations, we simulated genomes based on the observed distance between genomes and ran ConSpeciFix on those simulated genomes. 
     
-    sh /step4_simulation/cmd.sh
+    sh ./step4_simulation/cmd.sh
     
 ## Citation
 
