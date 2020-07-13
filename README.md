@@ -62,6 +62,12 @@ To access whether the observed recombination is due to convergent mutations, we 
     
     sh ./step4_simulation/cmd.sh
     
+## 5 - Phylogenetic tree construction
+
+We used IQ-Tree version 2.0 to contruct the phylogenetic tree. The 100 representative genomes used in the phylogenetic trees can be found under ./step5_phylogenetic_trees/. For example, we construct the phylogenetic tree of YFV using one WESSV genome as the outgroup: 
+
+    /user/bin/iqtree-2.0-rc1-Linux/bin/iqtree -s concat85.fa -o WESSV-NC012735
+    
 ## Citation
 
 Li Y, O’Donnell A, Ochman H. 2020. Discriminating Arboviral Species
