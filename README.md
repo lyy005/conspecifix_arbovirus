@@ -58,7 +58,7 @@ Considering the computational efficiency, only 100 representative genomes are an
 
 ## 4 - Simulation
 
-To access whether the observed recombination is due to convergent mutations, we simulated genomes based on the observed distance between genomes and ran ConSpeciFix on those simulated genomes. 
+To assess whether the observed recombination is due to convergent mutations, we simulated genomes based on the observed distance between genomes and ran ConSpeciFix on those simulated genomes. 
     
     sh ./step4_simulation/cmd.sh
     
